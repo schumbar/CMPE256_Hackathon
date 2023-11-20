@@ -37,6 +37,7 @@ Please see below for the list of deliverables related to this project.
 2. CMPE256_Hackathon.ipynb: Google Colab python notebook containing the code for this project.
 3. flask_app: Folder containing the files for the flask app.
 4. EconAdviser_video.mp4: Video recording of the demo of the flask app.
+5. Query_and_Responses.md: File containing the queries and responses that we recieved.
 
 ## Use Cases
 
