@@ -1,4 +1,6 @@
-# CMPE256_Hackathon
+# CMPE 256 Hackathon Project
+
+## EconAdvisor: AI-Driven Chatbot for Analyzing Indian Budget Speeches
 
 This is the README for the hackathon project for the CMPE256 class. This submission is for the Bay Area Rockers team, which consists of the following team members:
 
@@ -8,6 +10,7 @@ This is the README for the hackathon project for the CMPE256 class. This submiss
 
 ## Project Description
 
+This hackathon focuses on the development of an AI-powered chatbot, designed to analyze and respond to queries related to Indian Budget Speeches from 1947-2021. The project was initiated as part of a Hackathon challenge posed by a professor, aiming to harness the capabilities of Natural Language Processing (NLP) in the context of economic and governmental data analysis.
 
 ### Project Deliverables
 
