@@ -32,6 +32,7 @@ Please see below for the list of deliverables related to this project.
 3. flask_app: Folder containing the files for the flask app.
 4. EconAdviser_video.mp4: Video recording of the demo of the flask app.
 5. Query_and_Responses.md: File containing the queries and responses that we recieved.
+6. screenshots: Folder containing the screenshots of the flask app.
 
 ## Use Cases
 
