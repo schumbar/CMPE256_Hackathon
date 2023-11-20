@@ -8,7 +8,6 @@ This is the README for the hackathon project for the CMPE256 class. This submiss
 
 ## Project Description
 
-TODO
 
 ### Project Deliverables
 
@@ -17,6 +16,12 @@ Please see below for the list of deliverables related to this project.
 1. README.md: README file detailing this project.
 2. CMPE256_Hackathon.ipynb: Google Colab python notebook containing the code for this project.
 3. flask_app: Folder containing the files for the flask app.
+4. EconAdviser_video.mp4: Video recording of the demo of the flask app.
+
+## Use Cases
+
+1. Economics Researchers: They can use the chatbot to gather historical economic data, understand policy shifts over the years, and analyze the impact of specific budget announcements.
+2. Government Representatives: They can utilize the chatbot to access quick references to past budget statements, compare current policies with historical ones, and prepare for policy discussions and presentations.
 
 ## Query and Responses
 
