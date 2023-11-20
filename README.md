@@ -19,12 +19,6 @@ This hackathon focuses on the development of an AI-powered chatbot, designed to 
 3. Chatbot Development: Design an interactive chatbot that can cater to two types of personas - economics researchers and government representatives. This involves crafting responses that are relevant and informative to each user group.
 4. User Interface (UI): Develop a user-friendly interface using Flask, allowing users to interact with the chatbot in a seamless and efficient manner. This includes integrating the backend NLP processing with a frontend application.
 
-## Technical Framework
-
-- Languages and Libraries: Python serves as the primary programming language, supplemented by various libraries for data processing, NLP, and UI development.
-- NLP Techniques: Use state-of-the-art NLP methodologies to parse, understand, and generate responses based on the data from the budget speeches.
-- Flask for UI: Leverage the Flask framework to create a responsive and intuitive user interface, enabling easy access and interaction for the users.
-
 ## Project Significance
 
 This project stands at the intersection of technology and economics, providing valuable tools for researchers and government officials to analyze historical budget data through an AI-enabled platform. It demonstrates the application of software engineering principles and NLP in creating practical solutions for data-driven queries in the economic domain.
